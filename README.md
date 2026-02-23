@@ -23,7 +23,6 @@
 
 ```bash
 git clone https://github.com/czha8903/fnplayer.git
-cd server
 ```
 
 ### 2. 安装依赖
