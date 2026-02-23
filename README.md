@@ -67,10 +67,10 @@ python gui.py
 - 启动/停止服务
 - 查看服务状态
 
-### 方式二：直接运行服务
+### 方式二：win直接运行服务
 
 ```bash
-python gui.py
+gui.exe #（打开release下载gui.exe）
 ```
 
 服务会在后台启动，默认监听 `http://127.0.0.1:8080`
