@@ -22,17 +22,11 @@
 ### 1. 克隆或下载项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/czha8903/fnplayer.git
 cd server
 ```
 
 ### 2. 安装依赖
-
-```bash
-pip install -r requirements.txt
-```
-
-如果没有 `requirements.txt`，手动安装所需包：
 
 ```bash
 pip install flask
