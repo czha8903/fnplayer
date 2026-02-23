@@ -59,7 +59,7 @@ pip install flask
 ### 方式一：运行 GUI 应用（推荐）
 
 ```bash
-python gui.py
+python gui.py #浏览器需要安装油猴和加载tm.js
 ```
 
 这会启动一个 GUI 界面，你可以：
@@ -70,7 +70,7 @@ python gui.py
 ### 方式二：win直接运行服务
 
 ```bash
-gui.exe #（打开release下载gui.exe）
+gui.exe #（打开release下载gui.exe,加载tm.js）
 ```
 
 服务会在后台启动，默认监听 `http://127.0.0.1:8080`
